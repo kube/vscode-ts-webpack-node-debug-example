@@ -10,9 +10,6 @@
       "outFiles": [
         "${workspaceRoot}/dist/bundle.js"
       ],
-      "runtimeArgs": [
-        "--no-lazy"
-      ],
       "sourceMaps": true
     }
   ]
