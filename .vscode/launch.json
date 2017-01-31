@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch Program",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceRoot}",
+      "program": "${workspaceRoot}/src/index.ts",
+      "outFiles": [
+        "${workspaceRoot}/dist/bundle.js"
+      ],
+      "runtimeArgs": [
+        "--no-lazy"
+      ],
+      "sourceMaps": true
+    }
+  ]
+}

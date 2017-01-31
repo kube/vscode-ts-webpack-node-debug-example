@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "ts-loader": "^2.0.0",
+    "typescript": "^2.1.5",
+    "webpack": "2.2"
+  }
+}
