@@ -70,9 +70,6 @@ You need to create a `launch.json` in the `.vscode` folder at the root of your p
       "outFiles": [
         "${workspaceRoot}/dist/bundle.js"
       ],
-      "runtimeArgs": [
-        "--no-lazy"
-      ],
       "sourceMaps": true
     }
   ]
