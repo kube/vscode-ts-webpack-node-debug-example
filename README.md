@@ -37,7 +37,7 @@ My personal picks are `inline-source-map` during development and `source-map` fo
 
 All available source-maps are listed [here](https://webpack.js.org/configuration/devtool/)
 
-> Eval-based source maps won't work as they make the source mapping possible only at runtime, and VSCode won't be able to analyze them statically
+> ~Eval-based source maps won't work as they make the source mapping possible only at runtime, and VSCode won't be able to analyze them statically~
 
 
 ### Sourcemaps Modules Absolute Paths
