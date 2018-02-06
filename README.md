@@ -89,7 +89,7 @@ Example
 You can clone this repo to test the debug and check the configuration:
 
 ```
-git clone https://github.com:kube/vscode-ts-webpack-node-debug-example
+git clone https://github.com/kube/vscode-ts-webpack-node-debug-example
 cd vscode-ts-webpack-node-debug-example
 npm install
 ```
