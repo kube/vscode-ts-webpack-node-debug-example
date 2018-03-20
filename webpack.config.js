@@ -3,8 +3,8 @@ const { join } = require('path')
 module.exports = {
 
   // Pick any source-map that does not require eval.
-  // `inline-source-map` gives the best quality for development.
-  devtool: 'inline-source-map',
+  // `cheap-source-map` gives the best speed/quality for development.
+  devtool: 'cheap-source-map',
 
   entry: join(__dirname, 'src/index'),
 
